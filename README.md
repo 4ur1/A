@@ -1,2 +1,0 @@
-# A
-Inteligência Artificial Pessoal.
