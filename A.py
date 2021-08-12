@@ -1,9 +1,9 @@
 from src.Core.aCore import aCore
 from src.plugins.customs.scripts.GSearch.search import Procurar
-
+from src.plugins.customs.CoinMarketCap.CMC_API import getAll
 
 def __main__():
-    Core=aCore(None,None,None,None)
+    getAll()
 
 
 
